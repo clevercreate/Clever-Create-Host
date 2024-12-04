@@ -1,0 +1,8 @@
+User-agent: *
+Disallow:
+
+# Main Sitemap
+Sitemap: https://clevercreate.ae/sitemap.xml
+
+# Image Sitemap
+Sitemap: https://clevercreate.ae/image-sitemap.xml
